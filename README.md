@@ -1,0 +1,1 @@
+inferior version of chess engine created following the tutorial [Link](https://www.youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_) by Eddie Sharick.
